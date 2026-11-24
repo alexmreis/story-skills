@@ -72,6 +72,12 @@ This file was started after 0.15.0. Entries for 0.15.0 back to 0.12.0 come from 
 
 ### Changed
 
+- Craft rules that newer Claude models follow to the letter are now defaults with a reason, in `chapter-writing`, `scene-craft`, and `reader-panel`.
+  - `writing-guidelines.md` no longer sets a sense count per scene, and it yields to `style-sheet.md`, the author's samples, and the user. Its telling and showing example is marked as a technique, not wording to reuse.
+  - `scene-craft` references treat a flashback opening, a thought tag outside deep POV, more than one world fact in a scene, and a character introduced at rest as choices to make on purpose, not bans.
+  - `scene-craft` no longer stops an unattended run that cannot ask the user: it records each assumption in the scene's planning notes, plans only, and leaves canon-changing edits until the user confirms.
+  - `chapter-writing` offers `better-writing` only on the project's first chapter, and its limits on opening project files while drafting do not block a file the user asks to see.
+  - `reader-panel` starts a subagent for each persona only when the panel has more than one.
 - Footnote definitions no longer count toward word and character counts, and `unsupported-footnote` is retired. Run `story wordcount . --write` to refresh the counts of chapters with footnotes. (#884)
   - Before, builds printed footnote markers and notes as written, the note's text counted as words, and `story validate` warned with `unsupported-footnote` about each chapter with a definition. Builds now set footnotes, so the warning is gone. The single-file markdown build still keeps labels as written, so labels shared across chapters collide there.
   - A `severity` entry or an exemption that names `unsupported-footnote` is accepted and changes nothing, so a `story.md` that silenced it keeps working. Remove it when convenient.

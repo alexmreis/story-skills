@@ -22,8 +22,9 @@ possible moment:
 - The reader needs the **consequence** now and the **explanation** later.
   Show the sealed gate first; explain the treaty that sealed it three
   chapters later, when the treaty breaks.
-- One new world fact per scene is plenty. Two is crowded. A paragraph of
-  history is a crowd.
+- Ration new world facts. One per scene is a good default and two starts to
+  crowd; a paragraph of history is a crowd. This is a default, not a count
+  to enforce: a scene whose point is a revelation carries more.
 - When in doubt, delay: an unexplained detail the reader files away is
   foreshadowing; an explained one is exposition. Track planned delayed
   reveals in `continuity/questions/` so they don't become forgotten setups.

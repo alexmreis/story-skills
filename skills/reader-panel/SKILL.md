@@ -134,13 +134,16 @@ the genre, not from the outline.
 
 ### 3. Run each read independently
 
-1. Run one persona at a time. If you can start subagents, give each
+1. Run one persona at a time. If you can start subagents and the panel
+   has more than one persona, give each
    persona its own subagent with only its reference file, the chapters in
    range, the `story context` output, and the book's language, so no
    persona reads another's notes. The line editor's subagent also gets
    `style-sheet.md` (when the project has one) and the `story prose .`
    findings for the chapters in range. Run `story prose .` first, and keep
-   only its per-chapter findings for chapters in range. Otherwise finish and
+   only its per-chapter findings for chapters in range. A single persona
+   needs no subagent: it has no other notes to stay independent of, and a
+   subagent reads the whole range again. Otherwise finish and
    save one persona's file before starting the next, and do not revise
    earlier files after reading later ones.
 2. Follow the persona's reference file. Read the whole range before

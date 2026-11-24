@@ -1,12 +1,13 @@
 # Writing Guidelines
 
-Guidelines for writing chapter prose. Adapt to the story's genre, tone, and POV as defined in `story.md`.
+Guidelines for writing chapter prose. Adapt to the story's genre, tone, and POV as defined in `story.md`. These are defaults for a book that has not set its own: `style-sheet.md`, the author's samples, and what the user asks for take priority over anything here.
 
 ## Show, Don't Tell
 
 - Convey emotion through action, dialogue, and sensory detail rather than stating feelings
-- BAD: "She was angry."
-- GOOD: "Her fingers whitened around the hilt. She spoke through her teeth."
+- Telling: "She was angry."
+- Showing: "Her fingers whitened around the hilt. She spoke through her teeth."
+- The example shows the move, not wording to reuse: find the action this character would take in this scene
 
 ## POV Consistency
 
@@ -14,7 +15,7 @@ Guidelines for writing chapter prose. Adapt to the story's genre, tone, and POV 
 - **Third-person limited:** Stay in one character's head per scene. Only describe what they perceive, think, and feel
 - **Third-person omniscient:** Can reveal any character's thoughts, but maintain a consistent narrative voice
 
-Do NOT shift POV mid-scene. If a POV shift is needed, use a scene break (marked with `---`).
+In first person and third-person limited, keep one POV per scene. When the POV needs to change, use a scene break (marked with `---`).
 
 ## Dialogue
 
@@ -44,7 +45,7 @@ Not every scene needs explosive conflict - quiet character moments matter too. B
 
 Ground scenes in the physical world:
 - Sight, sound, smell, touch, taste
-- Choose 2-3 senses per scene, not all five
+- Choose the few senses this POV character would notice in this moment, rather than listing all five
 - Use details specific to the location (reference the location file)
 - Sensory details should reflect the POV character's state of mind
 

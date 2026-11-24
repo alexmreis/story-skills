@@ -43,9 +43,11 @@ outline-first drafting workflow.
 3. **Clarify missing inputs before planning or editing.** Ask the user for
    any required inputs you cannot establish from the project files — scene
    purpose, viewpoint, location, canon-changing intent, and the applicable
-   craft layer. Never guess at these or proceed on assumptions; a wrong
-   guess edits canon. Only continue to step 4 once every required input
-   is known.
+   craft layer. A wrong guess edits canon, so do not change canon on an
+   assumption. Continue to step 4 once every required input is known.
+   When no one can answer (a scheduled or unattended run), write each
+   assumption in the scene file's planning notes, continue with planning
+   only, and leave canon-changing edits until the user confirms.
 4. **Plan before prose.** For the scene in question, write the planning
    inputs the reference requires (sequel beats, try/fail positions, subtext
    wants, zoom level, exposition audit, flashback trigger, hook check) into
