@@ -40,8 +40,7 @@ Introduce each significant character with this discipline:
 
 1. **Action-first entry.** The character's first appearance shows them *doing*
    something characteristic under mild pressure — working, arguing, fixing,
-   fleeing. A character introduced at rest and described gives the reader
-   nothing to watch, so do that only as a deliberate choice.
+   fleeing. Avoid introducing a character at rest being described.
 2. **Prompt naming.** Name the character within their first paragraph of
    presence. A named-but-unseen character and a seen-but-unnamed character
    both confuse readers; give the name early.

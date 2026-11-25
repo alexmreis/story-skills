@@ -57,8 +57,7 @@ language, do this scan by reading.
 
 **No thought-tags.** Italicized thoughts with tags ("she thought," "she told
 herself") are training wheels. Deep POV expresses thought as unmediated
-narration: "The clock hadn't moved. Liar." In deep POV, leave interior monologue untagged; at a more
-distant level, a thought tag is a legitimate choice.
+narration: "The clock hadn't moved. Liar." Never tag interior monologue.
 
 **Perception filter.** Narrate only what the POV character could perceive:
 

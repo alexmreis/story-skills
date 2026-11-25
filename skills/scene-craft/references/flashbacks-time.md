@@ -83,10 +83,8 @@ When the story jumps forward (days, months, years):
 ## Flashback discipline
 
 - One flashback per chapter is plenty; two needs justification.
-- Open a chapter in the present unless the author has chosen a flashback
-  opening (see `openings.md` — the first page establishes present-tense
-  instability before past context). Record a chosen one in the scene's
-  planning notes so a later audit leaves it alone.
+- Open a chapter in the present; a flashback opening is a deliberate
+  choice (see `openings.md`).
 - A flashback longer than the present scene around it has become the real
   scene: rename it and restructure.
 - Backstory delivered because "the reader should know" belongs in the
