@@ -134,7 +134,8 @@ the genre, not from the outline.
 
 ### 3. Run each read independently
 
-1. Run one persona at a time. If you can start subagents, give each
+1. Run one persona at a time. If you can start subagents and the panel
+   has more than one persona, give each
    persona its own subagent with only its reference file, the chapters in
    range, the `story context` output, and the book's language, so no
    persona reads another's notes. The line editor's subagent also gets

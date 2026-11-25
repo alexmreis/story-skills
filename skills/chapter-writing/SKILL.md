@@ -27,7 +27,7 @@ ls -d ~/.claude/skills/better-writing .claude/skills/better-writing ~/.agents/sk
 ```
 
 - If a `better-writing` directory exists (containing `SKILL.md`), use it for prose quality, voice calibration, anti-generic writing checks, and the final pre-flight pass before saving the chapter.
-- If `better-writing` is not installed, continue with this skill's built-in writing guidelines (`references/writing-guidelines.md`). Do not ask about it every session: offer it once, when you draft the project's first chapter, by pointing the user at [forjd/better-writing](https://github.com/forjd/better-writing) and asking whether they want to install it. After that, mention it only if the user asks about prose-quality tools, and never again once they decline. Do not run any installer without explicit approval.
+- If `better-writing` is not installed, continue with this skill's built-in writing guidelines (`references/writing-guidelines.md`). Offer it only when you draft the project's first chapter, by pointing the user at [forjd/better-writing](https://github.com/forjd/better-writing) and asking whether they want to install it. After that, mention it only if the user asks about prose-quality tools. Do not run any installer without explicit approval.
 
 ## Outline-First Workflow
 
